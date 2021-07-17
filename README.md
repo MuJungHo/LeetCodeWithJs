@@ -12,7 +12,7 @@ Add Two Numbers|
 ### Stack
 Problem|Difficulty|Dates solved 
 ---|---|---
-Valid Parentheses|
+Valid Parentheses|Easy|[2021/07/17](/Stack/20.md)
 Reverse Linked List|
 
 ### Heap, PriorityQueue
