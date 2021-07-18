@@ -1,4 +1,4 @@
-# LeetCode Problem List
+# LeetCode Problem List (4/60)
 
 ### LinkedList
 Problem|Difficulty|Dates solved 
@@ -36,7 +36,7 @@ Subarray Sum Equals K|
 ### Graph, BFS, DFS
 Problem|Difficulty|Dates solved 
 ---|---|---
-Number of Islands|
+Number of Islands|Medium|[2021/07/18](/Graph_BFS_DFS/200.md)
 Max Area of Island|
 Number of Connected Components in an Undirected Graph|
 Word Ladder|
