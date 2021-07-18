@@ -44,7 +44,7 @@ Word Ladder|
 ### Tree, BST
 Problem|Difficulty|Dates solved 
 ---|---|---
-Maximum Depth of Binary Tree|
+Maximum Depth of Binary Tree|Easy|[2021/07/18](/Tree_BST/104.md)
 Minimum Depth of Binary Tree|
 Merge Two Binary Trees|
 Convert Sorted Array to Binary Search Tree|
