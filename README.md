@@ -1,4 +1,4 @@
-# LeetCode Problem List (4/60)
+# LeetCode Problem List (06/60)
 
 ### LinkedList
 Problem|Difficulty|Dates solved 
@@ -57,7 +57,7 @@ Construct Binary Tree from Preorder and Inorder Traversal|
 ### Dynamic Programming
 Problem|Difficulty|Dates solved 
 ---|---|---
-Paint Fence|
+Paint Fence|Easy|[2021/07/18](/DynamicPrograming/276.md)
 Longest Increasing Subsequence|
 Maximum Subarray|
 Unique Paths|
