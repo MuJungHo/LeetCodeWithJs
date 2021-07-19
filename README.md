@@ -72,7 +72,7 @@ Coin Change|
 ### Binary Search
 Problem|Difficulty|Dates solved 
 ---|---|---
-Search Insert Position|
+Search Insert Position|Easy|[2021/07/19](/BinarySearch/35.md)
 Find Minimum in Rotated Sorted Array|
 Search in Rotated Sorted Array|
 Capacity To Ship Packages Within D Days|
