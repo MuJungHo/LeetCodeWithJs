@@ -1,4 +1,4 @@
-# LeetCode Problem List (06/60)
+# LeetCode Problem List (8/60)
 
 ### LinkedList
 Problem|Difficulty|Dates solved 
@@ -80,7 +80,7 @@ Capacity To Ship Packages Within D Days|
 ### Recursion
 Problem|Difficulty|Dates solved 
 ---|---|---
-Pow(x, n)|
+Pow(x, n)|Medium|[2021/07/18](/Recursion/50.md)
 K-th Symbol in Grammar|
 Split BST|
 
