@@ -93,7 +93,7 @@ Minimum Size Subarray Sum|
 ### Greedy + Backtracking
 Problem|Difficulty|Dates solved 
 ---|---|---
-Permutations|
+Permutations|Medium|[2021/07/22](/Greedy_Backtracking/43.md)
 Subsets|
 Combination Sum|
 Generate Parentheses|
