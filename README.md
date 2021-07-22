@@ -1,4 +1,4 @@
-# LeetCode Problem List (8/60)
+# LeetCode Problem List
 
 ### LinkedList
 Problem|Difficulty|Dates solved 
@@ -80,14 +80,14 @@ Capacity To Ship Packages Within D Days|
 ### Recursion
 Problem|Difficulty|Dates solved 
 ---|---|---
-Pow(x, n)|Medium|[2021/07/18](/Recursion/50.md)
+Pow(x, n)|Medium|[2021/07/20](/Recursion/50.md)
 K-th Symbol in Grammar|
 Split BST|
 
 ### Sliding Window
 Problem|Difficulty|Dates solved 
 ---|---|---
-Longest Substring Without Repeating Characters|
+Longest Substring Without Repeating Characters|Medium|[2021/07/22](/SlidingWindow/3.md)
 Minimum Size Subarray Sum|
 
 ### Greedy + Backtracking
