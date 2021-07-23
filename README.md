@@ -13,7 +13,7 @@ Add Two Numbers|
 Problem|Difficulty|Dates solved 
 ---|---|---
 Valid Parentheses|Easy|[2021/07/17](/Stack/20.md)
-Reverse Linked List|
+Reverse Linked List|Easy|[2021/07/23](/Stack/206.md)
 
 ### Heap, PriorityQueue
 Problem|Difficulty|Dates solved 
