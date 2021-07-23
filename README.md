@@ -101,7 +101,7 @@ Generate Parentheses|
 ### Others
 Problem|Difficulty|Dates solved 
 ---|---|---
-Move Zeroes|
+Move Zeroes|Easy|[2021/07/23](/Others/283.md)
 Meeting Rooms|
 Meeting Rooms II|
 Is Subsequence|
