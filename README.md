@@ -4,7 +4,7 @@
 Problem|Difficulty|Dates solved 
 ---|---|---
 Linked List Cycle|Easy|[2021/07/17](/LinkedList/141.md)
-Linked List Cycle II|
+Linked List Cycle II|Medium|[2021/07/23](/LinkedList/142.md)
 Remove Duplicates from Sorted List|
 Remove Duplicates from Sorted List II|
 Add Two Numbers|
