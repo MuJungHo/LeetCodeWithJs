@@ -6,8 +6,8 @@ Problem|Difficulty|Dates updated
 Linked List Cycle|Easy|[2021/07/17](/LinkedList/141.md)
 Linked List Cycle II|Medium|[2021/07/23](/LinkedList/142.md)
 Remove Duplicates from Sorted List|Easy|[2021/07/26](/LinkedList/83.md)
-Remove Duplicates from Sorted List II|Easy|[2021/07/26](/LinkedList/82.md)
-Add Two Numbers|
+Remove Duplicates from Sorted List II|Medium|[2021/07/26](/LinkedList/82.md)
+Add Two Numbers|Medium|[2021/07/26](/LinkedList/2.md)
 
 ### Stack
 Problem|Difficulty|Dates updated 
