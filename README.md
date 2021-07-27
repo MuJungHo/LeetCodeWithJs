@@ -19,7 +19,7 @@ Reverse Linked List|Easy|[2021/07/23](/Stack/206.md)
 Problem|Difficulty|Dates updated 
 ---|---|---
 Kth Largest Element in a Stream|
-Top K Frequent Elements|
+Top K Frequent Elements|Medium|[2021/07/27](/Heap_PriorityQueue/347.md)
 Find K Pairs with Smallest Sums|
 
 
