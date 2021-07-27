@@ -27,7 +27,7 @@ Find K Pairs with Smallest Sums|
 Problem|Difficulty|Dates updated 
 ---|---|---
 Two Sum|Easy|[2021/07/18](/HashMap/1.md)
-Group Anagrams|
+Group Anagrams|Medium|[2021/07/27](/HashMap/49.md)
 Intersection of Two Arrays|
 Unique Email Addresses|
 First Unique Character in a String|
