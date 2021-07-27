@@ -37,7 +37,7 @@ Subarray Sum Equals K|
 Problem|Difficulty|Dates updated 
 ---|---|---
 Number of Islands|Medium|[2021/07/18](/Graph_BFS_DFS/200.md)
-Max Area of Island|
+Max Area of Island|[2021/07/27](/Graph_BFS_DFS/695.md)
 Number of Connected Components in an Undirected Graph|
 Word Ladder|
 
