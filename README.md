@@ -41,13 +41,13 @@ Max Area of Island|Medium|[2021/07/27](/Graph_BFS_DFS/695.md)
 Number of Connected Components in an Undirected Graph|
 Word Ladder|
 
-### Tree, BST (3/9)
+### Tree, BST (4/9)
 Problem|Difficulty|Dates updated 
 ---|---|---
 Maximum Depth of Binary Tree|Easy|[2021/07/18](/Tree_BST/104.md)
 Minimum Depth of Binary Tree|Easy|[2021/07/28](/Tree_BST/111.md)
 Merge Two Binary Trees|Easy|[2021/07/28](/Tree_BST/617.md)
-Convert Sorted Array to Binary Search Tree|
+Convert Sorted Array to Binary Search Tree|Easy|[2021/07/28](/Tree_BST/108.md)
 Path Sum|
 Binary Tree Level Order Traversal|
 Binary Tree Zigzag Level Order Traversal|
