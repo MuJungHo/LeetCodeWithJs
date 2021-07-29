@@ -48,7 +48,7 @@ Maximum Depth of Binary Tree|Easy|[2021/07/18](/Tree_BST/104.md)
 Minimum Depth of Binary Tree|Easy|[2021/07/28](/Tree_BST/111.md)
 Merge Two Binary Trees|Easy|[2021/07/28](/Tree_BST/617.md)
 Convert Sorted Array to Binary Search Tree|Easy|[2021/07/28](/Tree_BST/108.md)
-Path Sum|
+Path Sum|Easy|[2021/07/29](/Tree_BST/112.md)
 Binary Tree Level Order Traversal|
 Binary Tree Zigzag Level Order Traversal|
 Validate Binary Search Tree|
