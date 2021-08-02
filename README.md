@@ -58,7 +58,7 @@ Construct Binary Tree from Preorder and Inorder Traversal|
 Problem|Difficulty|Dates updated 
 ---|---|---
 Paint Fence|Easy|[2021/07/18](/DynamicPrograming/276.md)
-Longest Increasing Subsequence|
+Longest Increasing Subsequence|[2021/08/02](/DynamicPrograming/300.md)
 Maximum Subarray|
 Unique Paths|
 Unique Paths II|
