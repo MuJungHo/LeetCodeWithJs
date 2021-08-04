@@ -54,13 +54,13 @@ Binary Tree Zigzag Level Order Traversal|
 Validate Binary Search Tree|
 Construct Binary Tree from Preorder and Inorder Traversal|
 
-### Dynamic Programming (3/11)
+### Dynamic Programming (4/11)
 Problem|Difficulty|Dates updated 
 ---|---|---
 Paint Fence|Easy|[2021/07/18](/DynamicPrograming/276.md)
 Longest Increasing Subsequence|Medium|[2021/08/02](/DynamicPrograming/300.md)
 Maximum Subarray|Medium|[2021/08/02](/DynamicPrograming/53.md)
-Unique Paths|
+Unique Paths|Medium|[2021/08/04](/DynamicPrograming/62.md)
 Unique Paths II|
 House Robber|
 House Robber II|
