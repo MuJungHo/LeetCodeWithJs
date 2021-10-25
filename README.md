@@ -28,7 +28,7 @@ Problem|Difficulty|Dates updated
 ---|---|---
 Two Sum|Easy|[2021/07/18](/HashMap/1.md)
 Group Anagrams|Medium|[2021/07/27](/HashMap/49.md)
-Intersection of Two Arrays|
+Intersection of Two Arrays|Easy|[2021/10/25](/HashMap/349.md)
 Unique Email Addresses|
 First Unique Character in a String|
 Subarray Sum Equals K|
