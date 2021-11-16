@@ -84,17 +84,17 @@ Pow(x, n)|Medium|[2021/07/20](/Recursion/50.md)
 K-th Symbol in Grammar|
 Split BST|
 
-### Sliding Window (1/2)
+### Sliding Window (2/2)
 Problem|Difficulty|Dates updated 
 ---|---|---
 3.Longest Substring Without Repeating Characters|Medium|[2021/07/22](/SlidingWindow/3.md)
 209.Minimum Size Subarray Sum|Medium|[2021/11/16](/SlidingWindow/209.md)
 
-### Greedy + Backtracking (1/4)
+### Greedy + Backtracking (2/4)
 Problem|Difficulty|Dates updated 
 ---|---|---
-Permutations|Medium|[2021/07/22](/Greedy_Backtracking/43.md)
-Subsets|
+43.Permutations|Medium|[2021/07/22](/Greedy_Backtracking/43.md)
+78.Subsets|Medium|[2021/11/16](/Greedy_Backtracking/78.md)
 Combination Sum|
 Generate Parentheses|
 
