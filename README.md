@@ -28,7 +28,7 @@ Problem|Difficulty|Dates updated
 ---|---|---
 Two Sum|Easy|[2021/07/18](/HashMap/1.md)
 Group Anagrams|Medium|[2021/07/27](/HashMap/49.md)
-Intersection of Two Arrays|
+Intersection of Two Arrays|Easy|[2021/10/25](/HashMap/349.md)
 Unique Email Addresses|
 First Unique Character in a String|
 Subarray Sum Equals K|
@@ -54,15 +54,15 @@ Binary Tree Zigzag Level Order Traversal|
 Validate Binary Search Tree|
 Construct Binary Tree from Preorder and Inorder Traversal|
 
-### Dynamic Programming (3/11)
+### Dynamic Programming (6/11)
 Problem|Difficulty|Dates updated 
 ---|---|---
 Paint Fence|Easy|[2021/07/18](/DynamicPrograming/276.md)
 Longest Increasing Subsequence|Medium|[2021/08/02](/DynamicPrograming/300.md)
 Maximum Subarray|Medium|[2021/08/02](/DynamicPrograming/53.md)
-Unique Paths|
-Unique Paths II|
-House Robber|
+Unique Paths|Medium|[2021/08/04](/DynamicPrograming/62.md)
+Unique Paths II|Medium|[2021/08/04](/DynamicPrograming/63.md)
+House Robber|Medium|[2021/08/04](/DynamicPrograming/198.md)
 House Robber II|
 Best Time to Buy and Sell Stock|
 Best Time to Buy and Sell Stock II|
