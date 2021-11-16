@@ -87,8 +87,8 @@ Split BST|
 ### Sliding Window (1/2)
 Problem|Difficulty|Dates updated 
 ---|---|---
-Longest Substring Without Repeating Characters|Medium|[2021/07/22](/SlidingWindow/3.md)
-Minimum Size Subarray Sum|
+3. Longest Substring Without Repeating Characters|Medium|[2021/07/22](/SlidingWindow/3.md)
+209. Minimum Size Subarray Sum|Medium|[2021/11/16](/SlidingWindow/209.md)
 
 ### Greedy + Backtracking (1/4)
 Problem|Difficulty|Dates updated 
