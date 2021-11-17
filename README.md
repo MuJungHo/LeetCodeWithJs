@@ -1,6 +1,6 @@
 # LeetCode Problem List
 
-### LinkedList (5/5)
+### LinkedList (Done)
 Problem|Difficulty|Dates updated 
 ---|---|---
 141.Linked List Cycle|Easy|[2021/07/17](/LinkedList/141.md)
@@ -9,13 +9,13 @@ Problem|Difficulty|Dates updated
 082.Remove Duplicates from Sorted List II|Medium|[2021/07/26](/LinkedList/82.md)
 002.Add Two Numbers|Medium|[2021/07/26](/LinkedList/2.md)
 
-### Stack (2/2)
+### Stack (Done)
 Problem|Difficulty|Dates updated 
 ---|---|---
 020.Valid Parentheses|Easy|[2021/07/17](/Stack/20.md)
 206.Reverse Linked List|Easy|[2021/07/23](/Stack/206.md)
 
-### Heap, PriorityQueue (1/3)
+### Heap, PriorityQueue
 Problem|Difficulty|Dates updated 
 ---|---|---
 Kth Largest Element in a Stream|
@@ -23,7 +23,7 @@ Kth Largest Element in a Stream|
 Find K Pairs with Smallest Sums|
 
 
-### HashMap (2/6)
+### HashMap
 Problem|Difficulty|Dates updated 
 ---|---|---
 001.Two Sum|Easy|[2021/07/18](/HashMap/1.md)
@@ -33,7 +33,7 @@ Unique Email Addresses|
 First Unique Character in a String|
 Subarray Sum Equals K|
 
-### Graph, BFS, DFS (2/4)
+### Graph, BFS, DFS
 Problem|Difficulty|Dates updated 
 ---|---|---
 200.Number of Islands|Medium|[2021/07/18](/Graph_BFS_DFS/200.md)
@@ -41,7 +41,7 @@ Problem|Difficulty|Dates updated
 Number of Connected Components in an Undirected Graph|
 Word Ladder|
 
-### Tree, BST (4/9)
+### Tree, BST
 Problem|Difficulty|Dates updated 
 ---|---|---
 104.Maximum Depth of Binary Tree|Easy|[2021/07/18](/Tree_BST/104.md)
@@ -54,7 +54,7 @@ Binary Tree Zigzag Level Order Traversal|
 Validate Binary Search Tree|
 Construct Binary Tree from Preorder and Inorder Traversal|
 
-### Dynamic Programming (6/11)
+### Dynamic Programming
 Problem|Difficulty|Dates updated 
 ---|---|---
 276.Paint Fence|Easy|[2021/07/18](/DynamicPrograming/276.md)
@@ -69,28 +69,28 @@ Best Time to Buy and Sell Stock II|
 Word Break|
 Coin Change|
 
-### Binary Search  (1/4)
+### Binary Search
 Problem|Difficulty|Dates updated 
 ---|---|---
 35.Search Insert Position|Easy|[2021/07/19](/BinarySearch/35.md)
-Find Minimum in Rotated Sorted Array|
+153.Find Minimum in Rotated Sorted Array|Medium|[2021/11/17](/BinarySearch/153.md)
 Search in Rotated Sorted Array|
 Capacity To Ship Packages Within D Days|
 
-### Recursion (1/3)
+### Recursion
 Problem|Difficulty|Dates updated 
 ---|---|---
 50.Pow(x, n)|Medium|[2021/07/20](/Recursion/50.md)
 K-th Symbol in Grammar|
 Split BST|
 
-### Sliding Window (2/2)
+### Sliding Window
 Problem|Difficulty|Dates updated 
 ---|---|---
 3.Longest Substring Without Repeating Characters|Medium|[2021/07/22](/SlidingWindow/3.md)
 209.Minimum Size Subarray Sum|Medium|[2021/11/16](/SlidingWindow/209.md)
 
-### Greedy + Backtracking (2/4)
+### Greedy + Backtracking
 Problem|Difficulty|Dates updated 
 ---|---|---
 43.Permutations|Medium|[2021/07/22](/Greedy_Backtracking/43.md)
@@ -98,7 +98,7 @@ Problem|Difficulty|Dates updated
 Combination Sum|
 Generate Parentheses|
 
-### Others (2/7)
+### Others
 Problem|Difficulty|Dates updated 
 ---|---|---
 283.Move Zeroes|Easy|[2021/07/23](/Others/283.md)
