@@ -1,6 +1,5 @@
 
-### Others
-Problem|Difficulty|Dates updated 
+### Problem List
 
 Problem|Pattern|Difficulty|Dates updated
 ---|---|---|---
@@ -8,11 +7,11 @@ Problem|Pattern|Difficulty|Dates updated
 142.Linked List Cycle II|Medium|LinkedList|[2021/07/23]
 83.Remove Duplicates from Sorted List|Easy|LinkedList|[2021/07/26]
 82.Remove Duplicates from Sorted List II|Medium|LinkedList|[2021/07/26]
-2.Add Two Numbers|Medium|LinkedList|Stack[2021/07/26](https://leetcode.com/problems/add-two-numbers/)
+2.Add Two Numbers|Medium|Stack[2021/07/26](https://leetcode.com/problems/add-two-numbers/)
 20.Valid Parentheses|Easy|Stack|Stack[2021/07/17]
 206.Reverse Linked List|Easy|Stack|Stack[2021/07/23]
-Kth Largest Element in a Stream|Heap|-
-Find K Pairs with Smallest Sums|Heap|-
+Kth Largest Element in a Stream|-|Heap|-
+Find K Pairs with Smallest Sums|-|Heap|-
 347.Top K Frequent Elements|Medium|Heap|[2021/07/27]
 1.Two Sum|Easy|HashMap|[2021/07/18]
 49.Group Anagrams|Medium|HashMap|[2021/07/27]
@@ -32,7 +31,7 @@ Word Ladder|-|Graph|-
 102.Binary Tree Level Order Traversal|Medium|Tree|[2021/07/29]
 Binary Tree Zigzag Level Order Traversal|-|Tree|-
 Validate Binary Search Tree|-|Tree|-
-Construct Binary Tree from Preorder and Inorder Traversal|-|-
+Construct Binary Tree from Preorder and Inorder Traversal|-|Tree|-
 276.Paint Fence|Easy|DynamicPrograming|[2021/07/18]
 300.Longest Increasing Subsequence|Medium|DynamicPrograming|[2021/08/02]
 053.Maximum Subarray|Medium|DynamicPrograming|[2021/08/02]
@@ -47,7 +46,7 @@ Coin Change|-|DynamicPrograming|-
 35.Search Insert Position|Easy|Binary Search|[2021/07/19]
 153.Find Minimum in Rotated Sorted Array|Medium|Binary Search|[2021/11/17]
 33.Search in Rotated Sorted Array|Medium|Binary Search|[2021/11/17](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-Capacity To Ship Packages Within D Days|-|Binary Search||-
+Capacity To Ship Packages Within D Days|-|Binary Search|-
 50.Pow(x, n)|Medium|Recursion|[2021/07/20](/Recursion/50.md)
 K-th Symbol in Grammar|-|Recursion|-
 Split BST|-|Recursion|-
