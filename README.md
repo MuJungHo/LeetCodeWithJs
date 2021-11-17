@@ -3,32 +3,32 @@
 
 Problem|Pattern|Difficulty|Dates updated
 ---|---|---|---
-141.Linked List Cycle|Easy|LinkedList|[2021/07/17]
-142.Linked List Cycle II|Medium|LinkedList|[2021/07/23]
-83.Remove Duplicates from Sorted List|Easy|LinkedList|[2021/07/26]
-82.Remove Duplicates from Sorted List II|Medium|LinkedList|[2021/07/26]
-2.Add Two Numbers|Medium|Stack|[2021/07/26](https://leetcode.com/problems/add-two-numbers/)
-20.Valid Parentheses|Easy|Stack|[2021/07/17]
-206.Reverse Linked List|Easy|Stack|[2021/07/23]
-Kth Largest Element in a Stream|-|Heap|-
-Find K Pairs with Smallest Sums|-|Heap|-
-347.Top K Frequent Elements|Medium|Heap|[2021/07/27]
-1.Two Sum|Easy|HashMap|[2021/07/18]
-49.Group Anagrams|Medium|HashMap|[2021/07/27]
-349.Intersection of Two Arrays|Easy|HashMap|[2021/10/25]
-Unique Email Addresses|-|HashMap|-
-First Unique Character in a String|-|HashMap|-
-Subarray Sum Equals K|-|HashMap|-
-200.Number of Islands|Medium|Graph|[2021/07/18]
-695.Max Area of Island|Medium|Graph|[2021/07/27]
-Number of Connected Components in an Undirected Graph|-|Graph|-
-Word Ladder|-|Graph|-
-104.Maximum Depth of Binary Tree|Easy|Tree|[2021/07/18]
-111.Minimum Depth of Binary Tree|Easy|Tree|[2021/07/28]
-617.Merge Two Binary Trees|Easy|Tree|[2021/07/28]
-108.Convert Sorted Array to Binary Search Tree|Easy|Tree|[2021/07/28]
-112.Path Sum|Easy|Tree|[2021/07/29]
-102.Binary Tree Level Order Traversal|Medium|Tree|[2021/07/29]
+Linked List Cycle|Easy|LinkedList|[2021/07/17](https://leetcode.com/problems/linked-list-cycle/)
+Linked List Cycle II|Medium|LinkedList|[2021/07/23](https://leetcode.com/problems/linked-list-cycle-ii/)
+Remove Duplicates from Sorted List|Easy|LinkedList|[2021/07/26](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+Remove Duplicates from Sorted List II|Medium|LinkedList|[2021/07/26](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+Add Two Numbers|Medium|Stack|[2021/07/26](https://leetcode.com/problems/add-two-numbers/)
+Valid Parentheses|Easy|Stack|[2021/07/17](https://leetcode.com/problems/valid-parentheses/)
+Reverse Linked List|Easy|Stack|[2021/07/23](https://leetcode.com/problems/reverse-linked-list/)
+Kth Largest Element in a Stream|-|Heap|[-](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+Find K Pairs with Smallest Sums|-|Heap|[-](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+Top K Frequent Elements|Medium|Heap|[2021/07/27](https://leetcode.com/problems/top-k-frequent-elements/)
+Two Sum|Easy|HashMap|[2021/07/18](https://leetcode.com/problems/two-sum/)
+Group Anagrams|Medium|HashMap|[2021/07/27](https://leetcode.com/problems/group-anagrams/)
+Intersection of Two Arrays|Easy|HashMap|[2021/10/25](https://leetcode.com/problems/intersection-of-two-arrays/)
+Unique Email Addresses|-|HashMap|[-](https://leetcode.com/problems/unique-email-addresses/)
+First Unique Character in a String|-|HashMap|[-](https://leetcode.com/problems/first-unique-character-in-a-string/)
+Subarray Sum Equals K|-|HashMap|[-](https://leetcode.com/problems/subarray-sum-equals-k/)
+Number of Islands|Medium|Graph|[2021/07/18](https://leetcode.com/problems/number-of-islands)
+Max Area of Island|Medium|Graph|[2021/07/27](https://leetcode.com/problems/max-area-of-island)
+Number of Connected Components in an Undirected Graph|-|Graph|[-](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+Word Ladder|-|Graph|[-](https://leetcode.com/problems/word-ladder/)
+Maximum Depth of Binary Tree|Easy|Tree|[2021/07/18](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+Minimum Depth of Binary Tree|Easy|Tree|[2021/07/28](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+Merge Two Binary Trees|Easy|Tree|[2021/07/28]
+Convert Sorted Array to Binary Search Tree|Easy|Tree|[2021/07/28]
+Path Sum|Easy|Tree|[2021/07/29]
+Binary Tree Level Order Traversal|Medium|Tree|[2021/07/29]
 Binary Tree Zigzag Level Order Traversal|-|Tree|-
 Validate Binary Search Tree|-|Tree|-
 Construct Binary Tree from Preorder and Inorder Traversal|-|Tree|-
