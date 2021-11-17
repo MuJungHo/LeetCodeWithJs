@@ -7,7 +7,7 @@ Problem|Pattern|Difficulty|Dates updated
 142.Linked List Cycle II|Medium|LinkedList|[2021/07/23]
 83.Remove Duplicates from Sorted List|Easy|LinkedList|[2021/07/26]
 82.Remove Duplicates from Sorted List II|Medium|LinkedList|[2021/07/26]
-2.Add Two Numbers|Medium|[2021/07/26](https://leetcode.com/problems/add-two-numbers/)
+2.Add Two Numbers|Medium|Stack|[2021/07/26](https://leetcode.com/problems/add-two-numbers/)
 20.Valid Parentheses|Easy|Stack|[2021/07/17]
 206.Reverse Linked List|Easy|Stack|[2021/07/23]
 Kth Largest Element in a Stream|-|Heap|-
