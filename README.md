@@ -17,7 +17,7 @@ Two Sum|Easy|HashMap|[2021/07/18](https://leetcode.com/problems/two-sum/)
 Group Anagrams|Medium|HashMap|[2021/07/27](https://leetcode.com/problems/group-anagrams/)
 Intersection of Two Arrays|Easy|HashMap|[2021/10/25](https://leetcode.com/problems/intersection-of-two-arrays/)
 Unique Email Addresses|-|HashMap|[-](https://leetcode.com/problems/unique-email-addresses/)
-First Unique Character in a String|-|HashMap|[-](https://leetcode.com/problems/first-unique-character-in-a-string/)
+First Unique Character in a String|-|HashMap|[2021/11/22](https://leetcode.com/problems/first-unique-character-in-a-string/)
 Subarray Sum Equals K|-|HashMap|[-](https://leetcode.com/problems/subarray-sum-equals-k/)
 Number of Islands|Medium|Graph|[2021/07/18](https://leetcode.com/problems/number-of-islands)
 Max Area of Island|Medium|Graph|[2021/07/27](https://leetcode.com/problems/max-area-of-island)
@@ -25,12 +25,12 @@ Number of Connected Components in an Undirected Graph|-|Graph|[-](https://leetco
 Word Ladder|-|Graph|[-](https://leetcode.com/problems/word-ladder/)
 Maximum Depth of Binary Tree|Easy|Tree|[2021/07/18](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 Minimum Depth of Binary Tree|Easy|Tree|[2021/07/28](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-Merge Two Binary Trees|Easy|Tree|[2021/07/28]
-Convert Sorted Array to Binary Search Tree|Easy|Tree|[2021/07/28]
-Path Sum|Easy|Tree|[2021/07/29]
-Binary Tree Level Order Traversal|Medium|Tree|[2021/07/29]
-Binary Tree Zigzag Level Order Traversal|-|Tree|-
-Validate Binary Search Tree|-|Tree|-
+Merge Two Binary Trees|Easy|Tree|[2021/07/28](https://leetcode.com/problems/merge-two-binary-trees/)
+Convert Sorted Array to Binary Search Tree|Easy|Tree|[2021/07/28](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+Path Sum|Easy|Tree|[2021/07/29](https://leetcode.com/problems/path-sum/)
+Binary Tree Level Order Traversal|Medium|Tree|[2021/07/29](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+Binary Tree Zigzag Level Order Traversal|Medium|Tree|[-](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+Validate Binary Search Tree|Medium|Tree|[-](https://leetcode.com/problems/validate-binary-search-tree/)
 Construct Binary Tree from Preorder and Inorder Traversal|-|Tree|-
 276.Paint Fence|Easy|DynamicPrograming|[2021/07/18]
 300.Longest Increasing Subsequence|Medium|DynamicPrograming|[2021/08/02]
